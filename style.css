@@ -71,12 +71,12 @@ button{
 
 }
 
-/*.btn-submit{
-    margin-top: 20px;
-    background-color: green;
+.btn-submit{
+    margin-top: 15px;
+    background-color: #008000;
     color: white;
     border: none;
-    padding: 20px;
+    padding: 15px;
     cursor: pointer;
-}*/
+}
 
